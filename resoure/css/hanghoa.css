@@ -1,0 +1,31 @@
+
+
+.col img{
+    width: 100%;
+    height: 200px;
+
+}
+.col1{
+    box-shadow: 0 1px 1px 1px rgb(179, 176, 176);
+    border:1px solid rgb(253, 253, 253);
+    margin: 5px;
+    background-color: rgb(255, 255, 255) !important;
+}
+.col1:hover,
+.col1:active{
+    border:1px solid red;
+    
+}
+a{
+    text-decoration: none !important;
+}
+
+.col1 .h4{
+    width: 200px !important;
+}
+.h4{
+    font-size: 95% !important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

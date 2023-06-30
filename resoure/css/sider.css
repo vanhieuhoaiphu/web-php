@@ -1,0 +1,41 @@
+.sidebar-heading{
+  font-size: 150%;
+  margin-top:50px;
+}
+*{
+  font-family: 'Nunito', sans-serif;
+}
+#sidebar{
+
+   
+    position: fixed;
+    z-index: 999;
+}
+#content{
+    position: absolute !important;
+    margin-left: 300px;
+}
+.wrapper {
+   
+  display: flex;
+  width: 100%;
+}
+#sidebar ul li a{
+  display: block;
+}
+.components li a{
+  
+padding: 10px;
+padding-left: 50px;
+text-decoration: none ;
+color: white;
+font-size: 150%;
+}
+.components a:hover,
+.components a:active{
+  background-color: white;
+  color:blue;
+  width: 100%;
+
+}
+

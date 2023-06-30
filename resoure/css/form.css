@@ -1,0 +1,19 @@
+
+ ul li{
+     list-style: none;
+ }
+ a{
+     text-decoration: none !important;
+     color:#b1b1b1;
+ }
+ .formctai{
+   padding-top:50px;
+   
+ }
+ footer{
+     padding:30px;
+ }
+ .bodyform{
+      background-color: #3a3a3a !important;
+      color:#b1b1b1 !important; 
+ }

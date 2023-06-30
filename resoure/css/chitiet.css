@@ -1,0 +1,86 @@
+.colchitiet #view{
+    margin-top: 10px;
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+  
+
+ 
+}
+.colchitiet{
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+}
+
+.body{
+    background-color:#eff0f5 !important;
+}
+h2{
+    text-transform: uppercase;
+}
+
+
+.start li{
+   
+    display:inline-block !important;
+  
+ 
+}
+.start{
+    margin-left: -30px;
+}
+.xe{
+    color: #009432;
+}
+.start i{
+    color: #ee4d2d !important;
+}
+.colchitiet .imgview{
+    margin-top: 30px;
+    width: 30%;
+    height: 6vw;
+    margin-bottom: 10px;
+
+}
+
+.imgview:hover,
+.imgview:active{
+    
+  border:2px solid red;
+}
+h3 i{
+    color: rgb(105, 105, 7);
+}
+.form1{
+    width: 20% !important;
+}
+input[type="submit"]{
+    margin-bottom: 20px;
+}
+h2{
+    margin-top: 50px !important;
+    margin-left: 20px;
+   
+}
+.p{
+    background-color:#c9c5c5; 
+   width: 20px !important;
+    margin:0 auto;  
+    height:50px; 
+    font-size:150%;
+    padding: 8px;
+    margin-left: -15px;
+   
+}
+.col1{
+    box-shadow: 0 1px 1px 1px rgb(179, 176, 176);
+    border:1px solid rgb(253, 253, 253);
+    margin: 5px;
+   
+}
+.col1:hover,
+.col1:active{
+    border:1px solid red;
+
+}
